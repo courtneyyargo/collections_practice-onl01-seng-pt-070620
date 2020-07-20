@@ -43,8 +43,3 @@ def sum_array(array)
   end
 end
 
-def
-end
-
-def 
-end 
