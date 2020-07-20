@@ -1,6 +1,6 @@
 def sort_array_asc(array)
-  array.sort do |right, left|
-    left <=> right
+  array.sort do |i|
+    i.reverse 
   end 
 end
 
